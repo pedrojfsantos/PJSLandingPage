@@ -23,10 +23,9 @@ h3{
   font-family: Courier New;
   display: inline-block;
   font-size: 1em;
-  margin-top: 180px;
-  margin-bottom: 60px;
-  padding: 10px 15px 10px 15px;
-  border-radius: 4px;
+  position: fixed center;
+  bottom: 60px;
+
 }
 footer{
   position: fixed;
@@ -83,3 +82,7 @@ footer{
   font-size: 25px;
   padding: 5px 5px 5px 5px;
 }
+
+  margin-top: 180px;
+  margin-bottom: 60px;
+  padding: 10px 15px 10px 15px;
